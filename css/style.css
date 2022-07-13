@@ -62,4 +62,13 @@ section#instructors .socials i {
     transform: scale(1.05);
   }
 
-  
+  /*! ------------------- - STUDENTS SECTION ------------------------ */
+
+  /*! ------------------- 5- COURSES SECTION ------------------------ */
+section#courses .nav-link {
+  color: white;
+}
+
+section#courses .nav-item .nav-link.active {
+  background-color: var(--red);
+}
