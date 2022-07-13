@@ -72,3 +72,9 @@ section#courses .nav-link {
 section#courses .nav-item .nav-link.active {
   background-color: var(--red);
 }
+
+/*! ------------------- 6- CONTACT SECTION ------------------------ */
+section#contact i {
+  color: var(--red);
+  font-size: 2rem;
+}
