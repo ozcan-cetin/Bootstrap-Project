@@ -78,3 +78,16 @@ section#contact i {
   color: var(--red);
   font-size: 2rem;
 }
+
+/*! -------------------- 7- FOOTER ------------------------ */
+
+footer i {
+  font-size: 2rem;
+  color: white;
+  margin-right: 1rem;
+  transition: color 1s;
+}
+
+footer i:hover {
+  color: var(--red);
+}
